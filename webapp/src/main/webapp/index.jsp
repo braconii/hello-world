@@ -31,7 +31,7 @@
   </div>
 
 
-   <h1> Thank You, Happy Learning!!! </h1>
+   <h2> Thank You, Happy LEARNING!!! </h2>
 
   
 </form>
